@@ -6,7 +6,7 @@ void setup(){
   
   Serial.begin(9600); //Inicia a comunicação serial
 
-  Serial.println("http://rpsilva100.blogspot.com.br/");
+  
 
   }
 void loop()
